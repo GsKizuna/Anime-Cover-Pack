@@ -7,11 +7,11 @@
 **Informations sur le pack :**
 
 **Liste de lien :**
-* [Bonus](##%20Bonus)
-* [Dossiers Cover](##%20Dossiers-Cover)
-* [Blu-Ray Cover](##%20Blu-Ray-Cover)
-* [Liste des Anime](##%20Anime-Liste)
-* [Liste des Blu-Ray](##%20Blu-Ray-Liste)
+* [Bonus](#bonus)
+* [Dossiers Cover](#dossiers-cover)
+* [Blu-Ray Cover](#blu-ray-cover)
+* [Liste des Anime](#anime-liste)
+* [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
 **Nombre Total :** 90<br>
@@ -48,7 +48,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Anime Liste
-| Titre | nombre icone/png |
+| Titre | Nombre de fichier |
 | --- | :-: |
 | A Couple Of Cuckoos																																| 5 |
 | Angel Beats																																				| 1 |
@@ -108,7 +108,7 @@
 * **png :** 396x512 (32 bits)
 
 ## Blu-Ray Liste
-| Titre | Année de sortie | nombre png |
+| Titre | Année de sortie | Nombre de fichier |
 | --- | --: | :-: |
 | 5 centimètres par seconde (5cm per second) | 2007 | 1 |
 | A Silent Voice | 2016 | 1 |
