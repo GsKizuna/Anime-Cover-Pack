@@ -1,11 +1,18 @@
 # Packs d'icone pour dossiers/vidéo
-**Blu-Ray Demo :** ![Blu-Ray Demo](Blu-RayDemo.jpg "Img Demo Blu-Ray")
+**Blu-Ray Demo :** ![Blu-Ray Demo](Blu-RayDemo.jpg "Img Demo des Blu-Ray")
+**Dossier Demo :** ![Dossier Demo](CoverDemo.jpg "Img Demo des Dossier")
 **Crée par :** <Gs> Kizuna<br>
 **Liens :** N/A<br>
 
+* [Bonus](##%20Bonus)
+* [Dossiers Cover](##%20Dossiers-Cover)
+* [Blu-Ray Cover](##%20Blu-Ray-Cover)
+* [Liste des Anime](##%20Anime-Liste)
+* [Liste des Blu-Ray](##%20Blu-RayListe)
+
 ## **Informations sur le pack :**
 ## Bonus
-Nombre Total : 41<br>
+Nombre Total : 90<br>
 Format : png/ico/icns/psd<br>
 Type : N/A<br>
 Dimensions :
@@ -22,7 +29,7 @@ Dimensions :
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Blu-Ray Cover
-Nombre Total : 35<br>
+Nombre Total : 38<br>
 Format : png<br>
 Type : Normal<br>
 Dimensions :
