@@ -4,6 +4,23 @@
 **Liens :** N/A<br>
 
 ## **Informations sur le pack :**
+## Bonus
+Nombre Total : 41<br>
+Format : png/ico/icns/psd<br>
+Type : N/A<br>
+Dimensions :
+* png : Divers (32 bits)<br><br>
+* ico : 512x512 (32 bits), 256x256 (32 bits),
+        128x128 (32 bits), 96x96 (32 bits), 72x72 (32 bits),<br>
+        64x64 (32 bits), 48x48 (32/8 bits), 40x40 (32 bits),
+        32x32 (32/8/4 bits), 24x24 (32 bits), 20x20 (32 bits),<br>
+        16x16 (32/8/4 bits)<br><br>
+* icns : 512x512 (png), 512x512 @x2 (png), 256x256 (png),
+         256x256 @x2 (png), 128x128 (png), 128x128 @x2 (png),<br>
+         128x128 (32 bits), 64x64 (png), 48x48 (32/8/4 bits),
+         32x32 (32/8/4 bits), 32x32 (png), 32x32 @x2 (png),<br>
+         24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
+
 ## Blu-Ray Cover
 Nombre Total : 35<br>
 Format : png<br>
