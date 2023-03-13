@@ -106,7 +106,7 @@
 | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs |  | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | 2022 | 1 |
 
 ## Blu-Ray Cover
-**Nombre Total :** 43<br>
+**Nombre Total :** 46<br>
 **Format :** png<br>
 **Type :** Normal<br>
 **Dimensions :**
@@ -143,7 +143,7 @@
 | Les Murs vagabonds | Ame o tsugeru hyōryū danchi | Drifting Home | 2022 | 1 |
 | Les nouveaux héros | N/A | Big Hero 6 | 2014 | 1 |
 | Loin de moi, près de toi | Nakitai Watashi wa Neko wo Kaburu | A Whisker Away | 2020 | 1 |
-| Pas de jeu, pas de vie : -Zéro- | Nōgēmu Nōraifu -Zero- | No Game No Life: Zero | 2017 | 1 |
+| Pas de jeu, pas de vie : -Zéro- | Nōgēmu Nōraifu -Zero- | No Game No Life: Zero | 2017 | 4 |
 | Nos mots comme des bulles | Saidā no Yō ni Kotoba ga Wakiagaru | Words Bubble Up Like Soda Pop | 2021 | 1 |
 | Origine: esprits du passé | Gin-iro no kami no Agito | Origin: Spirits of the Past | 2006 | 1 |
 | Patéma et le Monde Inversé | Sakasama no Patema | Patema Inverted | 2013 | 1 |
