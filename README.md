@@ -51,7 +51,7 @@
 
 **Barèmes :**
 
-**\* :** Titre non Original
+**\* :** Titre non reconnu officiellement 
 
 | Titre Fr | Titre Jp | Titre En | Année de production | Nombre de fichier |
 | --- | --- | --- | --: | :-: |
@@ -116,42 +116,42 @@
 
 **Barèmes :**
 
-**\* :** Titre non Original
+**\* :** Titre non reconnu officiellement
 
 | Titre Fr | Titre Jp | Titre En | Année de sortie | Nombre de fichier |
 | --- | --- | --- | --: | :-: |
-| 5 centimètres par seconde |  | 5cm per second | 2007 | 1 |
-| La Voix du Silence |  | A Silent Voice | 2016 | 1 |
-| Atlantide, L'empire Perdu |  |  | 2001 | 1 |
-|  |  | Belle The Dragon and the Freckled Princess | 2021 | 2 |
-|  |  | Black Fox | 2018 | 1 |
-| Bulles |  | Bubble | 2022 | 1 |
-|  |  | Final Fantasy VII - Advent Children | 2005 | 1 |
-|  |  | Fireworks | 2017 | 1 |
-|  |  | Flavors Of Youth | 2018 | 1 |
-|  |  | Goblin Slayer - Goblin's Crown | 2020 | 1 |
-| Je veux manger ton pancréas |  | I Want To Eat Your Pancreas | 2018 | 1 |
-| Josée, le tigre et les poissons |  |  | 2020 | 1 |
-| Jun, la voix du cœur |  | The Anthem Of The Heart | 2015 | 1 |
-| Le coquin ne rêve pas d'une fille rêveuse |  | Rascal Does Not Dream of a Dreaming Girl | 2019 | 1 |
-| Le Garçon et la Bête |  |  | 2015 | 1 |
-| Les Chevaliers du Zodiaque - La Légende du Sanctuaire |  |  | 2014 | 1 |
-| Les contes de Terremer | Gedo Senki |  | 2006 | 1 |
-| Les Enfants de la Mer |  |  | 2019 | 1 |
-| Les Enfants du temps |  | Weathering with You | 2019 | 1 |
-| Les Mondes Parallèles |  | The Relative Worlds | 2019 | 1 |
-| Les murs vagabons |  |  | 2022 | 1 |
-| Les nouveaux héro |  | Big Hero 6 | 2014 | 1 |
-| Loin de moi, près de toi | Nakitai Watashi wa Neko wo Kaburu |  | 2020 | 1 |
-|  |  | No Game No Life -Zero- | 2017 | 1 |
-| Nos mots comme des bulles |  | Words Bubble Up Like Soda Pop | 2021 | 1 |
-| Origine - Les esprits du passé |  | Origin Spirits of the Past | 2006 | 1 |
-| Patéma et le Monde Inversé |  | Patema Inverted | 2013 | 1 |
-| Princesse Mononoké |  | Princess Mononoke | 1997 | 5 |
-| Fantôme d'été **\*** |  | Summer Ghost | 2021 | 1 |
-| Guerre d'été **\*** |  | Summer Wars | 2009 | 4 |
-| L'Art de l'épéiste en ligne - Le Film - **\*** |  | Sword Art Online - The Movie - Ordinal Scale | 2017 | 1 |
-|  |  | Sword Art Online - The Movie - Progressive - Aria of a Starless Night | 2021 | 1 |
-|  |  | The Garden of Words | 2013 | 1 |
-| Titan A.E. |  |  | 2000 | 1 |
-| Ton Nom **\*** |  | Your Name | 2016 | 1 |
+| 5 centimètres par seconde | Byōsoku go senchimētoru | 5cm per second | 2007 | 1 |
+| Une voix silencieuse **\*** | Koe no katachi | A Silent Voice | 2016 | 1 |
+| Atlantide, L'empire Perdu | N/A | Atlantis: The Lost Empire | 2001 | 1 |
+| Belle: Le dragon et la princesse aux taches de rousseur | Ryū to sobakasu no hime | Belle The Dragon and the Freckled Princess | 2021 | 2 |
+| Renard noir **\*** | Black Fox | Black Fox | 2018 | 1 |
+| Bulles | Baburu | Bubble | 2022 | 1 |
+| Final Fantasy VII: Les enfants de l'Avent **\*** | Fainaru Fantajī Sebun Adobento Chirudoren | Final Fantasy VII - Advent Children | 2005 | 1 |
+| Feux d'artifice, faut-il les voir de côté ou d'en bas ? | Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka? | Fireworks, Should We See It from the Side or the Bottom? | 2017 | 1 |
+| Saveurs de la jeunesse | Sì shì qīngchūn / Shikioriori | Flavors Of Youth | 2018 | 1 |
+| Tueur de gobelins - Couronne du gobelin **\*** | Goburin Sureiyā | Goblin Slayer - Goblin's Crown | 2020 | 1 |
+| Je veux manger ton pancréas | Kimi no suizō o tabetai | I Want To Eat Your Pancreas | 2018 | 1 |
+| Josée, le tigre et les poissons | Joze to tora to sakanatachi | Josee, the Tiger and the Fish | 2020 | 1 |
+| Jun, la voix du cœur | Kokoro ga sakebitagatterunda | The Anthem Of The Heart | 2015 | 1 |
+| Le coquin ne rêve pas d'une fille rêveuse **\*** | Seishun Buta Yarou wa Bunny Girl-Senpai no Yume wo Minai | Rascal Does Not Dream of a Dreaming Girl | 2019 | 1 |
+| Le Garçon et la Bête | Bakemono no ko | The Boy and the Beast | 2015 | 1 |
+| Les Chevaliers du Zodiaque : La Légende du Sanctuaire | Seinto Seiya Rejendo Obu Sankuchuari | Saint Seiya: Legend of Sanctuary | 2014 | 1 |
+| Les contes de Terremer | Gedo Senki | Tales from Earthsea | 2006 | 1 |
+| Les Enfants de la Mer | Kaijū no kodomo | Children of the Sea | 2019 | 1 |
+| Les Enfants du temps | Tenki no ko | Weathering with You | 2019 | 1 |
+| Les Mondes Parallèles | Ashita sekai ga owaru to shite mo | The Relative Worlds | 2019 | 1 |
+| Les Murs vagabonds | Ame o tsugeru hyōryū danchi | Drifting Home | 2022 | 1 |
+| Les nouveaux héros | N/A | Big Hero 6 | 2014 | 1 |
+| Loin de moi, près de toi | Nakitai Watashi wa Neko wo Kaburu | A Whisker Away | 2020 | 1 |
+| Pas de jeu, pas de vie : -Zéro- | Nōgēmu Nōraifu -Zero- | No Game No Life: Zero | 2017 | 1 |
+| Nos mots comme des bulles | Saidā no Yō ni Kotoba ga Wakiagaru | Words Bubble Up Like Soda Pop | 2021 | 1 |
+| Origine: esprits du passé | Gin-iro no kami no Agito | Origin: Spirits of the Past | 2006 | 1 |
+| Patéma et le Monde Inversé | Sakasama no Patema | Patema Inverted | 2013 | 1 |
+| Princesse Mononoké | Mononoke hime | Princess Mononoke | 1997 | 5 |
+| Fantôme d'été **\*** | Samā Gōsuto | Summer Ghost | 2021 | 1 |
+| Guerres d'été **\*** | Samā wōzu | Summer Wars | 2009 | 4 |
+| Art de l'épée en ligne - Le Film - Échelle ordinaire **\*** | Gekijō-ban Sōdo Āto Onrain -Ōdinaru Sukēru- | Sword Art Online - The Movie - Ordinal Scale | 2017 | 1 |
+| Art de l'épée en ligne Progressive: Air d'une nuit sans étoiles **\***|  | Sword Art Online Progressive: Aria of a Starless Night | 2021 | 1 |
+| Le jardin des mots **\*** | Koto no ha no Niwa | The Garden of Words | 2013 | 1 |
+| Titan A.E. | N/A | Titan A.E. | 2000 | 1 |
+| Ton Nom. **\*** | Kimi no na wa. | Your Name. | 2016 | 1 |
