@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 642 (107 par Format/Type)<br>
+**Nombre Total :** 654 (109 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -55,6 +55,7 @@
 
 | Titre Fr | Titre Jp | Titre En | Année de production | Nombre de fichier |
 | --- | --- | --- | --: | :-: |
+| .hack//La légende du crépuscule | .hack//Tasogare no Udewa Densetsu | .hack//Legend Of The Twilight | 2003 | 2 |
 |  |  | A Couple Of Cuckoos | N/A | 5 |
 |  |  | Angel Beats | N/A | 1 |
 | Arcane |  | Arcane | 2021 | 4 |
