@@ -98,6 +98,7 @@
 | Le plus grand seigneur des démons renaît sous la forme d'une personne ordinaire **\*** |  | The Greatest Demon Lord Is Reborn as a Typical Nobody | 2022 | 1 |
 | Le Donjon caché où moi seul peux entrer **\*** |  | The Hidden Dungeon Only I Can Enter | 2021 | 1 |
 | Les Chroniques d'Idhun **\*** |  | The Idhun Chronicles | 2020 - 2021 | 1 |
+| L'Inadéquat de l'Académie du Roi-Démon : Le Roi-Démon le plus fort de l'histoire se réincarne et va à l'école avec ses descendants **\*** | Maō gakuin no futekigōsha: Shijō saikyō no maō no shiso, tensei shite shison-tachi no gakkō e kayō | The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants | 2020 - 2023 | 6 |
 | L'Avènement du héros au Bouclier **\*** |  | The Rising Of The Shield Hero | 2019 - 2022 | 3 |
 | Le sage le plus fort avec l'écusson le plus faible |  | The Strongest Sage With the Weakest Crest | 2022 | 1 |
 | Le meilleur assassin du monde se réincarne dans un autre monde en tant qu'aristocrate **\*** |  | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 1 |
