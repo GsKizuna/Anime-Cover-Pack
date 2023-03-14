@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 576 (96 par Format/Type)<br>
+**Nombre Total :** 642 (107 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -88,6 +88,7 @@
 | Louez une petite amie |  | Rent A Girlfriend | 2020 - 2022 | 3 |
 |  |  | Romantic Killer | N/A | 2 |
 |  |  | Seirei Gensouki - Spirit Chronicles | N/A | 1 |
+| Elle s'est déclarée élève du sage | Kenja no Deshi o Nanoru Kenja | She Professed Herself Pupil of the Wise Man | 2022 | 4 |
 | Si je suis la Vilaine, autant mater le Boss Final |  | I'm the Villainess, So I'm Taming the Final Boss | 2022 | 1 |
 |  |  | Sky-High Survival | N/A | 1 |
 | L'Art de l'épéiste en ligne **\*** |  | Sword Art Online | N/A | 3 |
@@ -102,7 +103,7 @@
 | L'Avènement du héros au Bouclier **\*** |  | The Rising Of The Shield Hero | 2019 - 2022 | 3 |
 | Le sage le plus fort avec l'écusson le plus faible |  | The Strongest Sage With the Weakest Crest | 2022 | 1 |
 | Le meilleur assassin du monde se réincarne dans un autre monde en tant qu'aristocrate **\*** |  | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 1 |
-| Tomo-chan Est une Fille ! |  | Tomo-chan Is a Girl! | N/A | 1 |
+| Tomo-chan Est une Fille ! | Tomo-chan wa onnanoko! | Tomo-chan Is a Girl! | 2023 | 3 |
 | TONIKAWA - La lune pour toi |  | TONIKAWA - Over the Moon For You | 2020 | 2 |
 | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs |  | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | 2022 | 1 |
 
