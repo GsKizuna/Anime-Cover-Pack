@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 702 (117 par Format/Type)<br>
+**Nombre Total :** 750 (125 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -76,7 +76,7 @@
 | Horimiya |  | Hori-san To Miyamura-kun Horimiya | 2021 | 4 |
 | Dans un autre monde avec mon Smartphone **\*** | Isekai wa Sumātofon to tomo ni. | In Another World With My Smartphone | 2017 | 2 |
 | Dans le pays de Leadale **\*** | Riadeiru no daichi nite | In the Land of Leadale | 2022 | 2 |
-| Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world!| 2016 - 2017| 8 |
+| Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world!| 2016 - 2017| 16 |
 | L'attaque des Titans |  |  | N/A | 3 |
 | La Sorcière invincible tueuse de Slime depuis 300 ans |  | I've Been Killing Slimes for 300 Years and Maxed Out My Level | 2021 | 4 |
 | Les combattants seront déployés ! |  | Combatants Will Be Dispatched! | 2021 | 2 |
@@ -110,7 +110,7 @@
 | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs |  | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | 2022 | 1 |
 
 ## Blu-Ray Cover
-**Nombre Total :** 47<br>
+**Nombre Total :** 53<br>
 **Format :** png<br>
 **Type :** Normal<br>
 **Dimensions :**
@@ -127,7 +127,7 @@
 | 5 centimètres par seconde | Byōsoku go senchimētoru | 5cm per second | 2007 | 1 |
 | Une voix silencieuse **\*** | Koe no katachi | A Silent Voice | 2016 | 1 |
 | Atlantide, L'empire Perdu | N/A | Atlantis: The Lost Empire | 2001 | 1 |
-| Belle: Le dragon et la princesse aux taches de rousseur | Ryū to sobakasu no hime | Belle The Dragon and the Freckled Princess | 2021 | 2 |
+| Belle: Le dragon et la princesse aux taches de rousseur | Ryū to sobakasu no hime | Belle The Dragon and the Freckled Princess | 2021 | 6 |
 | Renard noir **\*** | Black Fox | Black Fox | 2018 | 1 |
 | Bulles | Baburu | Bubble | 2022 | 1 |
 | Final Fantasy VII: Les enfants de l'Avent **\*** | Fainaru Fantajī Sebun Adobento Chirudoren | Final Fantasy VII - Advent Children | 2005 | 1 |
