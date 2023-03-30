@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 90<br>
+**Nombre Total :** 97<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 654 (109 par Format/Type)<br>
+**Nombre Total :** 702 (117 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -68,14 +68,15 @@
 |  |  | Chrno Crusade | N/A | 2 |
 | La salle de classe de l'élite |  | Classroom of the Elite | 2017 - 2022 | 2 |
 |  |  | Claymore | N/A | 1 |
-| Le Jeu de Darwin **\*** |  | Darwin's Game | N/A | 3 |
-|  |  | Death March To The Parallel World Rhapsody | N/A | 1 |
-|  |  | Full Metal Alchemist | N/A | 1 |
-| Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri |  | 2015 - 2016 | 1 |
-|  |  | Goblin Slayer | N/A | 3 |
+| Le Jeu de Darwin **\*** | Dāwinzugēmu | Darwin's Game | 2020 | 3 |
+| Le commencement de la rhapsodie de l'autre monde à partir de la marche de la mort | Desu māchi kara hajimaru isekai kyōsōkyoku | Death March To The Parallel World Rhapsody | 2018 | 1 |
+| L'Alchimiste d'acier **\*** | Hagane no Renkinjutsushi - Fullmetal Alchemist | FullMetal Alchemist | 2005 - 2010 | 1 |
+| Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate | 2015 - 2016 | 1 |
+| Tueur de gobelins **\*** | Goburin Sureiyā | Goblin Slayer | N/A | 3 |
 | Horimiya |  | Hori-san To Miyamura-kun Horimiya | 2021 | 4 |
-| Dans un autre monde avec mon Smartphone **\*** |  | In Another World With My Smartphone | 2017 | 2 |
-| Dans le pays de Leadale **\*** |  | In the Land of Leadale | 2022 | 2 |
+| Dans un autre monde avec mon Smartphone **\*** | Isekai wa Sumātofon to tomo ni. | In Another World With My Smartphone | 2017 | 2 |
+| Dans le pays de Leadale **\*** | Riadeiru no daichi nite | In the Land of Leadale | 2022 | 2 |
+| Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world!| 2016 - 2017| 8 |
 | L'attaque des Titans |  |  | N/A | 3 |
 | La Sorcière invincible tueuse de Slime depuis 300 ans |  | I've Been Killing Slimes for 300 Years and Maxed Out My Level | 2021 | 4 |
 | Les combattants seront déployés ! |  | Combatants Will Be Dispatched! | 2021 | 2 |
@@ -109,7 +110,7 @@
 | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs |  | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | 2022 | 1 |
 
 ## Blu-Ray Cover
-**Nombre Total :** 46<br>
+**Nombre Total :** 47<br>
 **Format :** png<br>
 **Type :** Normal<br>
 **Dimensions :**
@@ -136,6 +137,7 @@
 | Je veux manger ton pancréas | Kimi no suizō o tabetai | I Want To Eat Your Pancreas | 2018 | 1 |
 | Josée, le tigre et les poissons | Joze to tora to sakanatachi | Josee, the Tiger and the Fish | 2020 | 1 |
 | Jun, la voix du cœur | Kokoro ga sakebitagatterunda | The Anthem Of The Heart | 2015 | 1 |
+| KonoSuba : La bénédiction de Dieu sur ce monde merveilleux ! La légende de Crimson **\*** | Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu | KonoSuba: God's Blessing on This Wonderful World! Legend of Crimson |2019 | 1 |
 | Le coquin ne rêve pas d'une fille rêveuse **\*** | Seishun Buta Yarou wa Bunny Girl-Senpai no Yume wo Minai | Rascal Does Not Dream of a Dreaming Girl | 2019 | 1 |
 | Le Garçon et la Bête | Bakemono no ko | The Boy and the Beast | 2015 | 1 |
 | Les Chevaliers du Zodiaque : La Légende du Sanctuaire | Seinto Seiya Rejendo Obu Sankuchuari | Saint Seiya: Legend of Sanctuary | 2014 | 1 |
