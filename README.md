@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 97<br>
+**Nombre Total :** 98<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -110,7 +110,7 @@
 | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs |  | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | 2022 | 1 |
 
 ## Blu-Ray Cover
-**Nombre Total :** 53<br>
+**Nombre Total :** 51<br>
 **Format :** png<br>
 **Type :** Normal<br>
 **Dimensions :**
