@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 98<br>
+**Nombre Total :** 103<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 840 (140 par Format/Type)<br>
+**Nombre Total :** 924 (154 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -56,21 +56,24 @@
 | Titre Fr | Titre Jp | Titre En | Année de production | Nombre de fichier |
 | --- | --- | --- | --: | :-: |
 | .hack//La légende du crépuscule | .hack//Tasogare no Udewa Densetsu | .hack//Legend Of The Twilight | 2003 | 2 |
+| [C] - Contrôle - L'argent et l'âme de la possibilité | N/A | [C] – Control – The Money and Soul of Possibility | 2011 | 5 |
 |  |  | A Couple Of Cuckoos | N/A | 5 |
 | Angel Beats! | Enjeru Bītsu! | Angel Beats! | 2010 | 3 |
 | Arcane |  | Arcane | 2021 | 4 |
 |  |  | Battle Game In 5 Seconds | N/A | 2 |
-|  | Burakku★Rokku Shūtā | Black★Rock Shooter | 2012 | 3 |
+| Black★Rock Shooter | Burakku★Rokku Shūtā | Black★Rock Shooter | 2012 | 3 |
 | Black★★Rock Shooter: Dawn Fall |  | Black★★Rock Shooter: Dawn Fall | 2022 | 3 |
-|  |  | Bleach | N/A | 1 |
+| Bleach |  | Bleach | N/A | 1 |
 | Par la grâce des dieux |  | By the Grace of the Gods | 2020 - 2023 | 5 |
-|  |  | Chainsaw Man | N/A | 1 |
+| Chainsaw Man | Chensō Man | Chainsaw Man | 2022 | 1 |
 |  |  | Chrno Crusade | N/A | 2 |
 | La salle de classe de l'élite |  | Classroom of the Elite | 2017 - 2022 | 2 |
 |  |  | Claymore | N/A | 1 |
+| DanMachi : La Légende des Familias | Danjon ni deai o motomeru no wa machigatteiru darō ka | DanMachi : Familia Myth | 2015 - 2023 | 4 |
 | Le Jeu de Darwin **\*** | Dāwinzugēmu | Darwin's Game | 2020 | 3 |
 | Le commencement de la rhapsodie de l'autre monde à partir de la marche de la mort | Desu māchi kara hajimaru isekai kyōsōkyoku | Death March To The Parallel World Rhapsody | 2018 | 1 |
 | Edens Zero | Edenzu Zero | Edens Zero | 2021 - 2023 | 4 |
+| Fairy Tail | Fearī Teiru | Fairy Tail | 2009 - 2019 | 5 |
 | L'Alchimiste d'acier **\*** | Hagane no Renkinjutsushi - Fullmetal Alchemist | FullMetal Alchemist | 2005 - 2010 | 1 |
 | Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate | 2015 - 2016 | 2 |
 | Tueur de gobelins **\*** | Goburin Sureiyā | Goblin Slayer | N/A | 3 |
@@ -83,7 +86,7 @@
 | La Sorcière invincible tueuse de Slime depuis 300 ans |  | I've Been Killing Slimes for 300 Years and Maxed Out My Level | 2021 | 4 |
 | Les combattants seront déployés ! |  | Combatants Will Be Dispatched! | 2021 | 2 |
 |  |  | Log Horizon | N/A | 1 |
-| Lookism |  | Lookism | (2022) | 3 |
+| Lookism | N/A | Lookism | (2022) | 3 |
 |  |  | Lucifer And The Biscuit Hammer | N/A | 2 |
 | Moi Quand Je Me Reincarne En Slime |  | That Time I Got Reincarnated as a Slime | 2018 - 2021 | 1 |
 |  |  | Overlord | N/A | 1 |
