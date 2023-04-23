@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 106<br>
+**Nombre Total :** 110<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 990 (165 par Format/Type)<br>
+**Nombre Total :** 1080 (180 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -65,6 +65,7 @@
 | Black★★Rock Shooter: Dawn Fall | Burakku★Rokku Shūtā | Black★★Rock Shooter: Dawn Fall | 2022 | 3 |
 | Bleach | Burīchi | Bleach | 2001 - 2016 | 1 |
 | Par la grâce des dieux **\*** | Kami-tachi ni Hirowareta Otoko | By the Grace of the Gods | 2020 - 2023 | 5 |
+| L'appel de la nuit **\*** | Yofukashi no uta | Call of the Night | 2022 | 6 |
 | Chainsaw Man | Chensō Man | Chainsaw Man | 2022 | 1 |
 | Chrno Crusade | Kurono kuruseido | Chrno Crusade | 2003 - 2004 | 2 |
 | La salle de classe de l'élite | Yōkoso jitsuryoku shijō shugi no kyōshitsu e | Classroom of the Elite | 2017 - 2022 | 2 |
@@ -89,12 +90,14 @@
 | Lookism | N/A | Lookism | 2022 | 3 |
 | Lucifer et le marteau biscuit **\*** | Hoshi no Samidare | Lucifer And The Biscuit Hammer | 2022 | 2 |
 | Moi Quand Je Me Reincarne En Slime | Tensei shitara Slime datta ken | That Time I Got Reincarnated as a Slime | 2018 - 2021 | 1 |
+| Pas de Jeu, Pas de Vie **\*** | Nōgēmu Nōraifu | No Game No Life | 2014 | 6 |
 | Une pièce **\*** | Wan Pīsu | One Piece | 1999 - 2023 | 5 |
 | Seigneur suprême **\*** | Ōbārōdo | Overlord | 2015 - 2022 | 1 |
 | Le coquin ne rêve pas de son aînée en Bunny girl | Seishun buta yarō | Rascal Does Not Dream Of Bunny Girl Senpai | 2018 | 2 |
 | Re:Zero - Re vivre dans un autre monde à partir de zéro | Re:Zero - kara hajimeru isekai seikatsu | Re:Zero − Starting Life in Another World | 2016 - 2021 | 2 |
 | Louez une petite amie **\*** | Kanojo, okarishimasu | Rent A Girlfriend | 2020 - 2022 | 3 |
 | Tueur romantique **\*** | Romantikku Kirā | Romantic Killer | 2022 | 2 |
+| Rokka -Braves des six fleurs- **\*** | Rokka no Yūsha | Rokka –Braves of the Six Flowers– | 2015 | 1 |
 | Seirei Gensouki: Chroniques de l'esprit **\*** | Seirei Gensōki | Seirei Gensouki: Spirit Chronicles | 2021 | 3 |
 | Elle s'est déclarée élève du sage **\*** | Kenja no Deshi o Nanoru Kenja | She Professed Herself Pupil of the Wise Man | 2022 | 4 |
 | Si je suis la Vilaine, autant mater le Boss Final | Akuyaku Reijō Nanode Rasubosu o Katte Mimashita | I'm the Villainess, So I'm Taming the Final Boss | 2022 | 1 |
@@ -103,6 +106,7 @@
 | L'Art de l'épéiste en ligne Alternative tempête d'arme en ligne **\*** | Sōdo Āto Onrain Orutanatibu Gangeiru Onrain | Sword Art Online Alternative Gun Gale Online | 2018 | 2 |
 | Contes de Zestiria le X **\*** | Teiruzu Obu Zesutiria Za Kurosu | Tales of Zestiria the X | 2016 - 2017 | 1 |
 | L'éminence de l'ombre **\*** | Kage no Jitsuryokusha ni Naritakute! | The Eminence in Shadow | 2022 - 2023 | 6 |
+| Le paladin lointain **\*** | Saihate no Paradin | The Faraway Paladin | 2021 | 2 |
 | Le dresseur de bêtes banni du groupe du héros rencontre une fille-chat de la race la plus forte | Yūsha pātī o tsuihō sa reta bīsutoteimā, saikyō-shu no nekomimi shōjo to deau | The Beast Tamer Who Was Exiled from His Party Meets a Cat Girl From the Strongest Race | 2022 | 1 |
 | Le guide du prince génial pour sortir une nation de la dette (Hé, pourquoi pas la trahison) | Tensai Ōji no Akaji Kokka Saisei Jutsu ~Sō da, Baikoku Shiyō~ | The Genius Prince's - Guide to Raising a Nation Out of Debt | 2022 | 3 |
 | Le plus grand seigneur des démons renaît sous la forme d'une personne ordinaire **\*** | Shijō saikyō no dai maō, murabito ē ni tensei suru | The Greatest Demon Lord Is Reborn as a Typical Nobody | 2022 | 1 |
