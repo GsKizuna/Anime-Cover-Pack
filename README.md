@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 110<br>
+**Nombre Total :** 113<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 1080 (180 par Format/Type)<br>
+**Nombre Total :** 1122 (187 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -67,6 +67,7 @@
 | Par la grâce des dieux **\*** | Kami-tachi ni Hirowareta Otoko | By the Grace of the Gods | 2020 - 2023 | 5 |
 | L'appel de la nuit **\*** | Yofukashi no uta | Call of the Night | 2022 | 6 |
 | Chainsaw Man | Chensō Man | Chainsaw Man | 2022 | 1 |
+| J'ai obtenu une compétence de triche dans un autre monde et je suis devenu imbattable dans le monde réel. **\*** | Isekai de chīto nōryoku sukiru o te ni shita ore wa, genjitsu sekai o mo musō suru 〜reberuappu wa jinsei o kaeta〜 | I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (Cheat Skill Level Up) | 2023 | 4 |
 | Chrno Crusade | Kurono kuruseido | Chrno Crusade | 2003 - 2004 | 2 |
 | La salle de classe de l'élite | Yōkoso jitsuryoku shijō shugi no kyōshitsu e | Classroom of the Elite | 2017 - 2022 | 2 |
 | Claymore | Kureimoa | Claymore | 2007 | 1 |
@@ -76,6 +77,8 @@
 | Edens Zero | Edenzu Zero | Edens Zero | 2021 - 2023 | 4 |
 | Fairy Tail | Fearī Teiru | Fairy Tail | 2009 - 2019 | 5 |
 | L'Alchimiste d'acier **\*** | Hagane no Renkinjutsushi - Fullmetal Alchemist | FullMetal Alchemist | 2005 - 2010 | 1 |
+| École du jeu **\*** | Kakegurui | Gambling School | 2017 - 2019 | 1 |
+| École du jeu - Jumelle **\*** | Kakegurui Tsuin | Gambling School - Twin | 2022 | 2 |
 | Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate | 2015 - 2016 | 2 |
 | Tueur de gobelins **\*** | Goburin Sureiyā | Goblin Slayer | N/A | 3 |
 | Horimiya | Hori-san to Miyamura-kun | Hori-san To Miyamura-kun Horimiya | 2021 | 4 |
