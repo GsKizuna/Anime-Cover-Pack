@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 113<br>
+**Nombre Total :** 117<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,7 +31,7 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 1122 (187 par Format/Type)<br>
+**Nombre Total :** 1200 (200 par Format/Type)<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -81,11 +81,13 @@
 | École du jeu - Jumelle **\*** | Kakegurui Tsuin | Gambling School - Twin | 2022 | 2 |
 | Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate | 2015 - 2016 | 2 |
 | Tueur de gobelins **\*** | Goburin Sureiyā | Goblin Slayer | N/A | 3 |
+| Grimgar, le Monde des Cendres et de Fantaisie **\*** | Hai to Gensō no Gurimugaru | Grimgar Ashes And Illusions | 2016 | 4 |
 | Horimiya | Hori-san to Miyamura-kun | Hori-san To Miyamura-kun Horimiya | 2021 | 4 |
 | Dans un autre monde avec mon Smartphone **\*** | Isekai wa Sumātofon to tomo ni. | In Another World With My Smartphone | 2017 | 2 |
 | Dans le pays de Leadale **\*** | Riadeiru no daichi nite | In the Land of Leadale | 2022 | 2 |
 | J'epargne 80 000 pieces d'or dans un autre monde pour ma retraite | Rōgo ni Sonaete Isekai de 8-Man-Mai no Kinka o Tamemasu | Saving 80000 Gold in Another World for my Retirement | 2023 | 2 |
-| Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world!| 2016 - 2017| 16 |
+| Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world! | 2016 - 2017| 16 |
+| Kuromukuro | N/A | Kuromukuro | 2016| 3 |
 | L'attaque des Titans | Shingeki no Kyojin | Attack on Titan | 2013 - 2022 | 3 |
 | La Sorcière invincible tueuse de Slime depuis 300 ans | Suraimu Taoshite Sanbyaku-nen, Shiranai Uchi ni Reberu Makkusu ni Nattemashita | I've Been Killing Slimes for 300 Years and Maxed Out My Level | 2021 | 4 |
 | Les combattants seront déployés ! | Sentōin, hakenshimasu! | Combatants Will Be Dispatched! | 2021 | 2 |
@@ -103,10 +105,11 @@
 | Rokka -Braves des six fleurs- **\*** | Rokka no Yūsha | Rokka –Braves of the Six Flowers– | 2015 | 1 |
 | Seirei Gensouki: Chroniques de l'esprit **\*** | Seirei Gensōki | Seirei Gensouki: Spirit Chronicles | 2021 | 3 |
 | Elle s'est déclarée élève du sage **\*** | Kenja no Deshi o Nanoru Kenja | She Professed Herself Pupil of the Wise Man | 2022 | 4 |
-| Si je suis la Vilaine, autant mater le Boss Final | Akuyaku Reijō Nanode Rasubosu o Katte Mimashita | I'm the Villainess, So I'm Taming the Final Boss | 2022 | 1 |
 | Survie dans le ciel **\*** | Tenkū shinpan | Sky-High Survival | 2021 | 2 |
+| Ombres temporelles **\*** | Samā Taimu Renda | Summer Time Rendering | 2022 | 3 |
 | L'Art de l'épéiste en ligne **\*** | Sōdo Āto Onrain | Sword Art Online | 2012 - 2020 | 3 |
 | L'Art de l'épéiste en ligne Alternative tempête d'arme en ligne **\*** | Sōdo Āto Onrain Orutanatibu Gangeiru Onrain | Sword Art Online Alternative Gun Gale Online | 2018 | 2 |
+| Si je suis la Vilaine, autant mater le Boss Final | Akuyaku Reijō Nanode Rasubosu o Katte Mimashita | I'm the Villainess, So I'm Taming the Final Boss | 2022 | 1 |
 | Contes de Zestiria le X **\*** | Teiruzu Obu Zesutiria Za Kurosu | Tales of Zestiria the X | 2016 - 2017 | 1 |
 | L'éminence de l'ombre **\*** | Kage no Jitsuryokusha ni Naritakute! | The Eminence in Shadow | 2022 - 2023 | 6 |
 | Le paladin lointain **\*** | Saihate no Paradin | The Faraway Paladin | 2021 | 2 |
@@ -115,6 +118,7 @@
 | Le plus grand seigneur des démons renaît sous la forme d'une personne ordinaire **\*** | Shijō saikyō no dai maō, murabito ē ni tensei suru | The Greatest Demon Lord Is Reborn as a Typical Nobody | 2022 | 1 |
 | Le Donjon caché où moi seul peux entrer **\*** | Ore Dake Haireru Kakushi Danjon ~Kossori Kitaete Sekai Saikyō~ | The Hidden Dungeon Only I Can Enter | 2021 | 1 |
 | Les Chroniques d'Idhun **\*** | N/A | The Idhun Chronicles | 2020 - 2021 | 1 |
+| Le héros légendaire est mort ! **\*** | Yūsha ga Shinda! Murabito no Ore ga Hotta Otoshiana ni Yūsha ga Ochita Kekka. | The Legendary Hero is Dead! | 2023 | 3 |
 | L'Inadéquat de l'Académie du Roi-Démon : Le Roi-Démon le plus fort de l'histoire se réincarne et va à l'école avec ses descendants **\*** | Maō gakuin no futekigōsha: Shijō saikyō no maō no shiso, tensei shite shison-tachi no gakkō e kayō | The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants | 2020 - 2023 | 6 |
 | L'Avènement du héros au Bouclier **\*** | Tate no yūsha no nariagari | The Rising Of The Shield Hero | 2019 - 2022 | 3 |
 | Le sage le plus fort avec l'écusson le plus faible | Shikkakumon no Saikyō Kenja ~Sekai Saikyō no Kenja ga Sara ni Tsuyoku Naru Tame ni Tensei Shimashita~ | The Strongest Sage With the Weakest Crest | 2022 | 1 |
