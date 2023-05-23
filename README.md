@@ -32,6 +32,7 @@
 
 ## Dossiers Cover
 **Nombre Total :** 1200 (200 par Format/Type)<br>
+**Unique Anime :** 75<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -57,6 +58,7 @@
 | --- | --- | --- | --: | :-: |
 | .hack//La légende du crépuscule | .hack//Tasogare no Udewa Densetsu | .hack//Legend Of The Twilight | 2003 | 2 |
 | [C] - Contrôle - L'argent et l'âme de la possibilité | N/A | [C] – Control – The Money and Soul of Possibility | 2011 | 5 |
+| A.I.C.O. -Incarnation- | N/A | A.I.C.O. -Incarnation- | 2018 | 3 |
 | Un couple de coucous **\*** | Kakkō no Iinazuke | A Couple Of Cuckoos | 2022 | 5 |
 | Angel Beats! | Enjeru Bītsu! | Angel Beats! | 2010 | 3 |
 | Arcane | N/A | Arcane | 2021 | 4 |
@@ -74,6 +76,8 @@
 | DanMachi : La Légende des Familias | Danjon ni deai o motomeru no wa machigatteiru darō ka | DanMachi : Familia Myth | 2015 - 2023 | 4 |
 | Le Jeu de Darwin **\*** | Dāwinzugēmu | Darwin's Game | 2020 | 3 |
 | Le commencement de la rhapsodie de l'autre monde à partir de la marche de la mort | Desu māchi kara hajimaru isekai kyōsōkyoku | Death March To The Parallel World Rhapsody | 2018 | 1 |
+| Jeu de la mort sur le mont mort **\*** | Deddomaunto Desupurei | Dead Mount Death Play | 2023 | 2 |
+| Dr. Pierre **\*** | Dokutā Sutōn | Dr. Stone | 2019 - 2023 | 2 |
 | Edens Zero | Edenzu Zero | Edens Zero | 2021 - 2023 | 4 |
 | Fairy Tail | Fearī Teiru | Fairy Tail | 2009 - 2019 | 5 |
 | L'Alchimiste d'acier **\*** | Hagane no Renkinjutsushi - Fullmetal Alchemist | FullMetal Alchemist | 2005 - 2010 | 1 |
@@ -88,6 +92,7 @@
 | J'epargne 80 000 pieces d'or dans un autre monde pour ma retraite | Rōgo ni Sonaete Isekai de 8-Man-Mai no Kinka o Tamemasu | Saving 80000 Gold in Another World for my Retirement | 2023 | 2 |
 | Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world! | 2016 - 2017| 16 |
 | Kuromukuro | N/A | Kuromukuro | 2016| 3 |
+| Kamisama - Opération Divine | Kaminaki Sekai no Kamisama Katsudō | KamiKatsu: Working for God in a Godless World | 2023 | 2 |
 | L'attaque des Titans | Shingeki no Kyojin | Attack on Titan | 2013 - 2022 | 3 |
 | La Sorcière invincible tueuse de Slime depuis 300 ans | Suraimu Taoshite Sanbyaku-nen, Shiranai Uchi ni Reberu Makkusu ni Nattemashita | I've Been Killing Slimes for 300 Years and Maxed Out My Level | 2021 | 4 |
 | Les combattants seront déployés ! | Sentōin, hakenshimasu! | Combatants Will Be Dispatched! | 2021 | 2 |
