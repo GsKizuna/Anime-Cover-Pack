@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 117<br>
+**Nombre Total :** 125<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,8 +31,8 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 1200 (200 par Format/Type)<br>
-**Unique Anime :** 75<br>
+**Nombre Total :** 1314 (219 par Format/Type)<br>
+**Unique Anime :** 79<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -83,6 +83,7 @@
 | L'Alchimiste d'acier **\*** | Hagane no Renkinjutsushi - Fullmetal Alchemist | FullMetal Alchemist | 2005 - 2010 | 1 |
 | École du jeu **\*** | Kakegurui | Gambling School | 2017 - 2019 | 1 |
 | École du jeu - Jumelle **\*** | Kakegurui Tsuin | Gambling School - Twin | 2022 | 2 |
+| Gargantia sur la planète verte **\*** | Suisei no Gargantia | Gargantia On the Verdurous Planet | 2013 | 2 |
 | Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate | 2015 - 2016 | 2 |
 | Tueur de gobelins **\*** | Goburin Sureiyā | Goblin Slayer | N/A | 3 |
 | Grimgar, le Monde des Cendres et de Fantaisie **\*** | Hai to Gensō no Gurimugaru | Grimgar Ashes And Illusions | 2016 | 4 |
@@ -100,9 +101,11 @@
 | Lookism | N/A | Lookism | 2022 | 3 |
 | Lucifer et le marteau biscuit **\*** | Hoshi no Samidare | Lucifer And The Biscuit Hammer | 2022 | 2 |
 | Moi Quand Je Me Reincarne En Slime | Tensei shitara Slime datta ken | That Time I Got Reincarnated as a Slime | 2018 - 2021 | 1 |
+| Mashle - Magie et muscles **\*** | Masshuru | Mashle - Magic and Muscles | 2023 | 3 |
 | Pas de Jeu, Pas de Vie **\*** | Nōgēmu Nōraifu | No Game No Life | 2014 | 6 |
 | Une pièce **\*** | Wan Pīsu | One Piece | 1999 - 2023 | 5 |
 | Seigneur suprême **\*** | Ōbārōdo | Overlord | 2015 - 2022 | 1 |
+| RahXephon | Rāzefon | RahXephon | 2002 | 2 |
 | Le coquin ne rêve pas de son aînée en Bunny girl | Seishun buta yarō | Rascal Does Not Dream Of Bunny Girl Senpai | 2018 | 2 |
 | Re:Zero - Re vivre dans un autre monde à partir de zéro | Re:Zero - kara hajimeru isekai seikatsu | Re:Zero − Starting Life in Another World | 2016 - 2021 | 2 |
 | Louez une petite amie **\*** | Kanojo, okarishimasu | Rent A Girlfriend | 2020 - 2022 | 3 |
@@ -125,6 +128,7 @@
 | Les Chroniques d'Idhun **\*** | N/A | The Idhun Chronicles | 2020 - 2021 | 1 |
 | Le héros légendaire est mort ! **\*** | Yūsha ga Shinda! Murabito no Ore ga Hotta Otoshiana ni Yūsha ga Ochita Kekka. | The Legendary Hero is Dead! | 2023 | 3 |
 | L'Inadéquat de l'Académie du Roi-Démon : Le Roi-Démon le plus fort de l'histoire se réincarne et va à l'école avec ses descendants **\*** | Maō gakuin no futekigōsha: Shijō saikyō no maō no shiso, tensei shite shison-tachi no gakkō e kayō | The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants | 2020 - 2023 | 6 |
+| La réincarnation de l’exorciste le plus fort dans un autre monde **\*** | Saikyō Onmyōji no Isekai Tenseiki: Geboku no Yōkai-domo ni Kurabete Monsutā ga Yowasugiru n Da ga | The Reincarnation Of The Strongest Exorcist In Another World| 2023 | 3 |
 | L'Avènement du héros au Bouclier **\*** | Tate no yūsha no nariagari | The Rising Of The Shield Hero | 2019 - 2022 | 3 |
 | Le sage le plus fort avec l'écusson le plus faible | Shikkakumon no Saikyō Kenja ~Sekai Saikyō no Kenja ga Sara ni Tsuyoku Naru Tame ni Tensei Shimashita~ | The Strongest Sage With the Weakest Crest | 2022 | 1 |
 | Le meilleur assassin du monde se réincarne dans un autre monde en tant qu'aristocrate **\*** | Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei suru | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 1 |
