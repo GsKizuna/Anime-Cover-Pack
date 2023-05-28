@@ -31,8 +31,8 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 1314 (219 par Format/Type)<br>
-**Unique Anime :** 79<br>
+**Nombre Total :** 1392 (232 par Format/Type)<br>
+**Unique Anime :** 83<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -54,87 +54,91 @@
 
 **\* :** Titre non reconnu officiellement 
 
-| Titre Fr | Titre Jp | Titre En | Année de production | Nombre de fichier |
+| Titre En | Titre Jp | Titre Fr | Année de production | Nombre de fichier |
 | --- | --- | --- | --: | :-: |
-| .hack//La légende du crépuscule | .hack//Tasogare no Udewa Densetsu | .hack//Legend Of The Twilight | 2003 | 2 |
-| [C] - Contrôle - L'argent et l'âme de la possibilité | N/A | [C] – Control – The Money and Soul of Possibility | 2011 | 5 |
+| .hack//Legend Of The Twilight | .hack//Tasogare no Udewa Densetsu | .hack//La légende du crépuscule | 2003 | 2 |
+| [C] – Control – The Money and Soul of Possibility | N/A | [C] - Contrôle - L'argent et l'âme de la possibilité | 2011 | 5 |
 | A.I.C.O. -Incarnation- | N/A | A.I.C.O. -Incarnation- | 2018 | 3 |
-| Un couple de coucous **\*** | Kakkō no Iinazuke | A Couple Of Cuckoos | 2022 | 5 |
-| Angel Beats! | Enjeru Bītsu! | Angel Beats! | 2010 | 3 |
+| A Couple Of Cuckoos | Kakkō no Iinazuke | Un couple de coucous **\*** | 2022 | 5 |
+| Angel Beats! | Enjeru Bītsu! | Les rythmes de l'ange! **\*** | 2010 | 3 |
 | Arcane | N/A | Arcane | 2021 | 4 |
-| Le Jeu de Bataille Dans 5 secondes **\*** | Deatte Go-byō de Batoru | Battle Game In 5 Seconds | 2021 | 2 |
+| Attack on Titan | Shingeki no Kyojin | L'attaque des Titans | 2013 - 2022 | 3 |
+| Battle Game In 5 Seconds | Deatte Go-byō de Batoru | Le Jeu de Bataille Dans 5 secondes **\*** | 2021 | 2 |
 | Black★Rock Shooter | Burakku★Rokku Shūtā | Black★Rock Shooter | 2012 | 3 |
 | Black★★Rock Shooter: Dawn Fall | Burakku★Rokku Shūtā | Black★★Rock Shooter: Dawn Fall | 2022 | 3 |
 | Bleach | Burīchi | Bleach | 2001 - 2016 | 1 |
-| Par la grâce des dieux **\*** | Kami-tachi ni Hirowareta Otoko | By the Grace of the Gods | 2020 - 2023 | 5 |
-| L'appel de la nuit **\*** | Yofukashi no uta | Call of the Night | 2022 | 6 |
-| Chainsaw Man | Chensō Man | Chainsaw Man | 2022 | 1 |
-| J'ai obtenu une compétence de triche dans un autre monde et je suis devenu imbattable dans le monde réel. **\*** | Isekai de chīto nōryoku sukiru o te ni shita ore wa, genjitsu sekai o mo musō suru 〜reberuappu wa jinsei o kaeta〜 | I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (Cheat Skill Level Up) | 2023 | 4 |
-| Chrno Crusade | Kurono kuruseido | Chrno Crusade | 2003 - 2004 | 2 |
-| La salle de classe de l'élite | Yōkoso jitsuryoku shijō shugi no kyōshitsu e | Classroom of the Elite | 2017 - 2022 | 2 |
+| By the Grace of the Gods | Kami-tachi ni Hirowareta Otoko | Par la grâce des dieux **\*** | 2020 - 2023 | 5 |
+| Call of the Night | Yofukashi no uta | L'appel de la nuit **\*** | 2022 | 6 |
+| Chainsaw Man | Chensō Man | L'homme tronçonneuse **\*** | 2022 | 1 |
+| Chrno Crusade | Kurono kuruseido | Croisade de Chrno **\*** | 2003 - 2004 | 2 |
+| Classroom of the Elite | Yōkoso jitsuryoku shijō shugi no kyōshitsu e | La salle de classe de l'élite **\*** | 2017 - 2022 | 2 |
 | Claymore | Kureimoa | Claymore | 2007 | 1 |
-| DanMachi : La Légende des Familias | Danjon ni deai o motomeru no wa machigatteiru darō ka | DanMachi : Familia Myth | 2015 - 2023 | 4 |
-| Le Jeu de Darwin **\*** | Dāwinzugēmu | Darwin's Game | 2020 | 3 |
-| Le commencement de la rhapsodie de l'autre monde à partir de la marche de la mort | Desu māchi kara hajimaru isekai kyōsōkyoku | Death March To The Parallel World Rhapsody | 2018 | 1 |
-| Jeu de la mort sur le mont mort **\*** | Deddomaunto Desupurei | Dead Mount Death Play | 2023 | 2 |
-| Dr. Pierre **\*** | Dokutā Sutōn | Dr. Stone | 2019 - 2023 | 2 |
-| Edens Zero | Edenzu Zero | Edens Zero | 2021 - 2023 | 4 |
-| Fairy Tail | Fearī Teiru | Fairy Tail | 2009 - 2019 | 5 |
-| L'Alchimiste d'acier **\*** | Hagane no Renkinjutsushi - Fullmetal Alchemist | FullMetal Alchemist | 2005 - 2010 | 1 |
-| École du jeu **\*** | Kakegurui | Gambling School | 2017 - 2019 | 1 |
-| École du jeu - Jumelle **\*** | Kakegurui Tsuin | Gambling School - Twin | 2022 | 2 |
-| Gargantia sur la planète verte **\*** | Suisei no Gargantia | Gargantia On the Verdurous Planet | 2013 | 2 |
-| Gate - Au-delà de la porte | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate | 2015 - 2016 | 2 |
-| Tueur de gobelins **\*** | Goburin Sureiyā | Goblin Slayer | N/A | 3 |
-| Grimgar, le Monde des Cendres et de Fantaisie **\*** | Hai to Gensō no Gurimugaru | Grimgar Ashes And Illusions | 2016 | 4 |
-| Horimiya | Hori-san to Miyamura-kun | Hori-san To Miyamura-kun Horimiya | 2021 | 4 |
-| Dans un autre monde avec mon Smartphone **\*** | Isekai wa Sumātofon to tomo ni. | In Another World With My Smartphone | 2017 | 2 |
-| Dans le pays de Leadale **\*** | Riadeiru no daichi nite | In the Land of Leadale | 2022 | 2 |
-| J'epargne 80 000 pieces d'or dans un autre monde pour ma retraite | Rōgo ni Sonaete Isekai de 8-Man-Mai no Kinka o Tamemasu | Saving 80000 Gold in Another World for my Retirement | 2023 | 2 |
-| Konosuba : Sois béni monde merveilleux ! | Kono subarashii sekai ni shukufuku o! | KONOSUBA -God's blessing on this wonderful world! | 2016 - 2017| 16 |
+| Combatants Will Be Dispatched! | Sentōin, hakenshimasu! | Les combattants seront déployés ! | 2021 | 2 |
+| DanMachi : Familia Myth | Danjon ni deai o motomeru no wa machigatteiru darō ka | DanMachi : La Légende des Familias **\*** | 2015 - 2023 | 4 |
+| Darwin's Game | Dāwinzugēmu | Le Jeu de Darwin **\*** | 2020 | 3 |
+| Dead Mount Death Play | Deddomaunto Desupurei | Jeu de la mort sur le mont mort **\*** | 2023 | 2 |
+| Death March To The Parallel World Rhapsody |  Desu māchi kara hajimaru isekai kyōsōkyoku | Le commencement de la rhapsodie de l'autre monde à partir de la marche de la mort **\*** | 2018 | 1 |
+| Dr. Stone | Dokutā Sutōn | Dr. Pierre **\*** | 2019 - 2023 | 2 |
+| Edens Zero | Edenzu Zero | Édens Zéro **\*** | 2021 - 2023 | 4 |
+| Fairy Tail | Fearī Teiru | Queue de fée **\*** | 2009 - 2019 | 5 |
+| FullMetal Alchemist | Hagane no Renkinjutsushi - Fullmetal Alchemist | L'Alchimiste d'acier **\*** | 2005 - 2010 | 1 |
+| Full Metal Panic! | Furumetaru panikku ! | Métal Panique Totale ! **\*** | 2002 | 4 |
+| Gambling School | Kakegurui | École du jeu **\*** | 2017 - 2019 | 1 |
+| Gambling School - Twin | Kakegurui Tsuin | École du jeu - Jumelle **\***  | 2022 | 2 |
+| Gargantia On the Verdurous Planet | Suisei no Gargantia | Gargantia sur la planète verte **\*** | 2013 | 2 |
+| Gate | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate - Au-delà de la porte  | 2015 - 2016 | 2 |
+| Goblin Slayer | Goburin Sureiyā | Tueur de gobelins **\*** | 2018 | 3 |
+| Grimgar Ashes And Illusions  | Hai to Gensō no Gurimugaru | Grimgar, le Monde des Cendres et de Fantaisie **\*** | 2016 | 4 |
+| Hori-san To Miyamura-kun Horimiya | Hori-san to Miyamura-kun | Horimiya | 2021 | 4 |
+| I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (Cheat Skill Level Up) | Isekai de chīto nōryoku sukiru o te ni shita ore wa, genjitsu sekai o mo musō suru 〜reberuappu wa jinsei o kaeta〜 | J'ai obtenu une compétence de triche dans un autre monde et je suis devenu imbattable dans le monde réel. **\*** | 2023 | 4 |
+| I'm Standing on a Million Lives | Hyakuman no Inochi no Ue ni Ore wa Tatte Iru | Je suis debout sur un million de vies **\*** | 2020 - 2021 | 4 |
+| I'm the Villainess, So I'm Taming the Final Boss | Akuyaku Reijō Nanode Rasubosu o Katte Mimashita | Si je suis la Vilaine, autant mater le Boss Final | 2022 | 1 |
+| In Another World With My Smartphone | Isekai wa Sumātofon to tomo ni. | Dans un autre monde avec mon Smartphone **\*** | 2017 | 2 |
+| In the Land of Leadale | Riadeiru no daichi nite | Dans le pays de Leadale **\*** | 2022 | 2 |
+| I've Been Killing Slimes for 300 Years and Maxed Out My Level | Suraimu Taoshite Sanbyaku-nen, Shiranai Uchi ni Reberu Makkusu ni Nattemashita | La Sorcière invincible tueuse de Slime depuis 300 ans | 2021 | 4 |
+| KamiKatsu: Working for God in a Godless World | Kaminaki Sekai no Kamisama Katsudō | Kamisama: Opération Divine | 2023 | 2 |
+| Konosuba: God's blessing on this wonderful world! | Kono subarashii sekai ni shukufuku o! | Konosuba: Sois béni monde merveilleux !| 2016 - 2017| 16 |
 | Kuromukuro | N/A | Kuromukuro | 2016| 3 |
-| Kamisama - Opération Divine | Kaminaki Sekai no Kamisama Katsudō | KamiKatsu: Working for God in a Godless World | 2023 | 2 |
-| L'attaque des Titans | Shingeki no Kyojin | Attack on Titan | 2013 - 2022 | 3 |
-| La Sorcière invincible tueuse de Slime depuis 300 ans | Suraimu Taoshite Sanbyaku-nen, Shiranai Uchi ni Reberu Makkusu ni Nattemashita | I've Been Killing Slimes for 300 Years and Maxed Out My Level | 2021 | 4 |
-| Les combattants seront déployés ! | Sentōin, hakenshimasu! | Combatants Will Be Dispatched! | 2021 | 2 |
-| Horizon des événements **\*** | Rogu Horaizun | Log Horizon | 2013 - 2021 | 1 |
+| Log Horizon | Rogu Horaizun | Horizon des événements **\*** | 2013 - 2021 | 1 |
 | Lookism | N/A | Lookism | 2022 | 3 |
-| Lucifer et le marteau biscuit **\*** | Hoshi no Samidare | Lucifer And The Biscuit Hammer | 2022 | 2 |
-| Moi Quand Je Me Reincarne En Slime | Tensei shitara Slime datta ken | That Time I Got Reincarnated as a Slime | 2018 - 2021 | 1 |
-| Mashle - Magie et muscles **\*** | Masshuru | Mashle - Magic and Muscles | 2023 | 3 |
-| Pas de Jeu, Pas de Vie **\*** | Nōgēmu Nōraifu | No Game No Life | 2014 | 6 |
-| Une pièce **\*** | Wan Pīsu | One Piece | 1999 - 2023 | 5 |
-| Seigneur suprême **\*** | Ōbārōdo | Overlord | 2015 - 2022 | 1 |
+| Lucifer And The Biscuit Hammer | Hoshi no Samidare | Lucifer et le marteau biscuit **\*** | 2022 | 2 |
+| Mashle - Magic and muscles| Masshuru | Mashle - Magie et muscles **\*** | 2023 | 3 |
+| My Dress-Up Darling | Sono Bisuku Dōru wa Koi o Suru | Ma chérie en costume **\*** | 2022 | 2 |
+| No Game No Life | Nōgēmu Nōraifu | Pas de Jeu, Pas de Vie **\*** | 2014 | 6 |
+| One Piece | Wan Pīsu | Une pièce **\*** | 1999 - 2023 | 5 |
+| Overlord | Ōbārōdo | Seigneur suprême **\*** | 2015 - 2022 | 1 |
 | RahXephon | Rāzefon | RahXephon | 2002 | 2 |
-| Le coquin ne rêve pas de son aînée en Bunny girl | Seishun buta yarō | Rascal Does Not Dream Of Bunny Girl Senpai | 2018 | 2 |
-| Re:Zero - Re vivre dans un autre monde à partir de zéro | Re:Zero - kara hajimeru isekai seikatsu | Re:Zero − Starting Life in Another World | 2016 - 2021 | 2 |
-| Louez une petite amie **\*** | Kanojo, okarishimasu | Rent A Girlfriend | 2020 - 2022 | 3 |
-| Tueur romantique **\*** | Romantikku Kirā | Romantic Killer | 2022 | 2 |
-| Rokka -Braves des six fleurs- **\*** | Rokka no Yūsha | Rokka –Braves of the Six Flowers– | 2015 | 1 |
-| Seirei Gensouki: Chroniques de l'esprit **\*** | Seirei Gensōki | Seirei Gensouki: Spirit Chronicles | 2021 | 3 |
-| Elle s'est déclarée élève du sage **\*** | Kenja no Deshi o Nanoru Kenja | She Professed Herself Pupil of the Wise Man | 2022 | 4 |
-| Survie dans le ciel **\*** | Tenkū shinpan | Sky-High Survival | 2021 | 2 |
-| Ombres temporelles **\*** | Samā Taimu Renda | Summer Time Rendering | 2022 | 3 |
-| L'Art de l'épéiste en ligne **\*** | Sōdo Āto Onrain | Sword Art Online | 2012 - 2020 | 3 |
-| L'Art de l'épéiste en ligne Alternative tempête d'arme en ligne **\*** | Sōdo Āto Onrain Orutanatibu Gangeiru Onrain | Sword Art Online Alternative Gun Gale Online | 2018 | 2 |
-| Si je suis la Vilaine, autant mater le Boss Final | Akuyaku Reijō Nanode Rasubosu o Katte Mimashita | I'm the Villainess, So I'm Taming the Final Boss | 2022 | 1 |
-| Contes de Zestiria le X **\*** | Teiruzu Obu Zesutiria Za Kurosu | Tales of Zestiria the X | 2016 - 2017 | 1 |
-| L'éminence de l'ombre **\*** | Kage no Jitsuryokusha ni Naritakute! | The Eminence in Shadow | 2022 - 2023 | 6 |
-| Le paladin lointain **\*** | Saihate no Paradin | The Faraway Paladin | 2021 | 2 |
-| Le dresseur de bêtes banni du groupe du héros rencontre une fille-chat de la race la plus forte | Yūsha pātī o tsuihō sa reta bīsutoteimā, saikyō-shu no nekomimi shōjo to deau | The Beast Tamer Who Was Exiled from His Party Meets a Cat Girl From the Strongest Race | 2022 | 1 |
-| Le guide du prince génial pour sortir une nation de la dette (Hé, pourquoi pas la trahison) | Tensai Ōji no Akaji Kokka Saisei Jutsu ~Sō da, Baikoku Shiyō~ | The Genius Prince's - Guide to Raising a Nation Out of Debt | 2022 | 3 |
-| Le plus grand seigneur des démons renaît sous la forme d'une personne ordinaire **\*** | Shijō saikyō no dai maō, murabito ē ni tensei suru | The Greatest Demon Lord Is Reborn as a Typical Nobody | 2022 | 1 |
-| Le Donjon caché où moi seul peux entrer **\*** | Ore Dake Haireru Kakushi Danjon ~Kossori Kitaete Sekai Saikyō~ | The Hidden Dungeon Only I Can Enter | 2021 | 1 |
-| Les Chroniques d'Idhun **\*** | N/A | The Idhun Chronicles | 2020 - 2021 | 1 |
-| Le héros légendaire est mort ! **\*** | Yūsha ga Shinda! Murabito no Ore ga Hotta Otoshiana ni Yūsha ga Ochita Kekka. | The Legendary Hero is Dead! | 2023 | 3 |
-| L'Inadéquat de l'Académie du Roi-Démon : Le Roi-Démon le plus fort de l'histoire se réincarne et va à l'école avec ses descendants **\*** | Maō gakuin no futekigōsha: Shijō saikyō no maō no shiso, tensei shite shison-tachi no gakkō e kayō | The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants | 2020 - 2023 | 6 |
-| La réincarnation de l’exorciste le plus fort dans un autre monde **\*** | Saikyō Onmyōji no Isekai Tenseiki: Geboku no Yōkai-domo ni Kurabete Monsutā ga Yowasugiru n Da ga | The Reincarnation Of The Strongest Exorcist In Another World| 2023 | 3 |
-| L'Avènement du héros au Bouclier **\*** | Tate no yūsha no nariagari | The Rising Of The Shield Hero | 2019 - 2022 | 3 |
-| Le sage le plus fort avec l'écusson le plus faible | Shikkakumon no Saikyō Kenja ~Sekai Saikyō no Kenja ga Sara ni Tsuyoku Naru Tame ni Tensei Shimashita~ | The Strongest Sage With the Weakest Crest | 2022 | 1 |
-| Le meilleur assassin du monde se réincarne dans un autre monde en tant qu'aristocrate **\*** | Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei suru | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 1 |
-| Tomo-chan Est une Fille ! | Tomo-chan wa onnanoko! | Tomo-chan Is a Girl! | 2023 | 3 |
-| TONIKAWA - La lune pour toi | Tonikaku Kawaii | TONIKAWA - Over the Moon For You | 2020 | 2 |
-| Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs | Otomegē Sekai wa Mobu ni Kibishii Sekai Desu | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | 2022 | 1 |
+| Rascal Does Not Dream Of Bunny Girl Senpai | Seishun buta yarō | Le coquin ne rêve pas de son aînée en Bunny girl **\*** | 2018 | 2 |
+| Re:Zero − Starting Life in Another World | Re:Zero - kara hajimeru isekai seikatsu |  Re:Zéro - Re vivre dans un autre monde à partir de zéro **\*** | 2016 - 2021 | 2 |
+| Rent A Girlfriend | Kanojo, okarishimasu | Louez une petite amie **\*** | 2020 - 2022 | 3 |
+| Rokka –Braves of the Six Flowers– | Rokka no Yūsha | Rokka -Braves des six fleurs- **\*** | 2015 | 1 |
+| Romantic Killer | Romantikku Kirā | Tueur romantique **\*** | 2022 | 2 |
+| Saving 80000 Gold in Another World for my Retirement | Rōgo ni Sonaete Isekai de 8-Man-Mai no Kinka o Tamemasu | J'epargne 80 000 pieces d'or dans un autre monde pour ma retraite | 2023 | 2 |
+| Seirei Gensouki: Spirit Chronicles | Seirei Gensōki | Seirei Gensouki: Chroniques de l'esprit **\*** | 2021 | 3 |
+| She Professed Herself Pupil of the Wise Man | Kenja no Deshi o Nanoru Kenja | Elle s'est déclarée élève du sage **\*** | 2022 | 4 |
+| Sky-High Survival | Tenkū shinpan | Survie dans le ciel **\*** | 2021 | 2 |
+| Summer Time Rendering | Samā Taimu Renda | Ombres temporelles **\*** | 2022 | 3 |
+| Sword Art Online | Sōdo Āto Onrain | L'Art de l'épéiste en ligne **\*** | 2012 - 2020 | 3 |
+| Sword Art Online Alternative Gun Gale Online | Sōdo Āto Onrain Orutanatibu Gangeiru Onrain | L'Art de l'épéiste en ligne Alternative tempête d'arme en ligne **\*** | 2018 | 2 |
+| Tales of Zestiria the X | Teiruzu Obu Zesutiria Za Kurosu | Contes de Zestiria le X **\*** | 2016 - 2017 | 1 |
+| That Time I Got Reincarnated as a Slime | Tensei shitara Slime datta ken | Moi Quand Je Me Reincarne En Slime | 2018 - 2021 | 1 |
+| The Beast Tamer Who Was Exiled from His Party Meets a Cat Girl From the Strongest Race | Yūsha pātī o tsuihō sa reta bīsutoteimā, saikyō-shu no nekomimi shōjo to deau | Le dresseur de bêtes banni du groupe du héros rencontre une fille-chat de la race la plus forte **\*** | 2022 | 1 |
+| The Eminence in Shadow | Kage no Jitsuryokusha ni Naritakute! | L'éminence de l'ombre **\*** | 2022 - 2023 | 6 |
+| The Faraway Paladin | Saihate no Paradin | Le paladin lointain **\*** | 2021 | 2 |
+| The Genius Prince's - Guide to Raising a Nation Out of Debt | Tensai Ōji no Akaji Kokka Saisei Jutsu ~Sō da, Baikoku Shiyō~ | Le guide du prince génial pour sortir une nation de la dette (Hé, pourquoi pas la trahison) **\*** | 2022 | 3 |
+| The Greatest Demon Lord Is Reborn as a Typical Nobody | Shijō saikyō no dai maō, murabito ē ni tensei suru | Le plus grand seigneur des démons renaît sous la forme d'une personne ordinaire **\*** | 2022 | 1 |
+| The Hidden Dungeon Only I Can Enter | Ore Dake Haireru Kakushi Danjon ~Kossori Kitaete Sekai Saikyō~ | Le Donjon caché où moi seul peux entrer **\*** | 2021 | 1 |
+| The Idhun Chronicles | N/A | Les Chroniques d'Idhun **\*** | 2020 - 2021 | 1 |
+| The Legendary Hero is Dead! | Yūsha ga Shinda! Murabito no Ore ga Hotta Otoshiana ni Yūsha ga Ochita Kekka. | Le héros légendaire est mort ! **\*** | 2023 | 3 |
+| The Misfit of Demon King Academy: History's Strongest Demon King Reincarnates and Goes to School with His Descendants | Maō gakuin no futekigōsha: Shijō saikyō no maō no shiso, tensei shite shison-tachi no gakkō e kayō | L'Inadéquat de l'Académie du Roi-Démon : Le Roi-Démon le plus fort de l'histoire se réincarne et va à l'école avec ses descendants **\*** | 2020 - 2023 | 6 |
+| The Reincarnation Of The Strongest Exorcist In Another World | Saikyō Onmyōji no Isekai Tenseiki: Geboku no Yōkai-domo ni Kurabete Monsutā ga Yowasugiru n Da ga | La réincarnation de l’exorciste le plus fort dans un autre monde **\*** | 2023 | 3 |
+| The Rising Of The Shield Hero | Tate no yūsha no nariagari | L'Avènement du héros au Bouclier **\*** | 2019 - 2022 | 3 |
+| The Strongest Sage With the Weakest Crest | Shikkakumon no Saikyō Kenja ~Sekai Saikyō no Kenja ga Sara ni Tsuyoku Naru Tame ni Tensei Shimashita~ | Le sage le plus fort avec l'écusson le plus faible **\*** | 2022 | 1 |
+| The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei suru | Le meilleur assassin du monde se réincarne dans un autre monde en tant qu'aristocrate **\*** | 2021 | 1 |
+| Tokyo Ghoul | Tōkyō Gūru | La goule de Tokyo **\*** | 2014 - 2018 | 3 |
+| Tomo-chan Is a Girl! | Tomo-chan wa onnanoko! | Tomo-chan Est une Fille ! | 2023 | 3 |
+| TONIKAWA - Over the Moon For You | Tonikaku Kawaii | TONIKAWA - La lune pour toi **\*** | 2020 | 2 |
+| Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | Otomegē Sekai wa Mobu ni Kibishii Sekai Desu | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs **\*** | 2022 | 1 |
 
 ## Blu-Ray Cover
 **Nombre Total :** 53<br>
