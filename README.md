@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 125<br>
+**Nombre Total :** 133<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,8 +31,8 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 1392 (232 par Format/Type)<br>
-**Unique Anime :** 83<br>
+**Nombre Total :** 1440 (240 par Format/Type)<br>
+**Unique Anime :** 87<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -67,6 +67,7 @@
 | Black★Rock Shooter | Burakku★Rokku Shūtā | Black★Rock Shooter | 2012 | 3 |
 | Black★★Rock Shooter: Dawn Fall | Burakku★Rokku Shūtā | Black★★Rock Shooter: Dawn Fall | 2022 | 3 |
 | Bleach | Burīchi | Bleach | 2001 - 2016 | 1 |
+| Btooom! | Butūmu! | Btooom! | 2012 | 1 |
 | By the Grace of the Gods | Kami-tachi ni Hirowareta Otoko | Par la grâce des dieux **\*** | 2020 - 2023 | 5 |
 | Call of the Night | Yofukashi no uta | L'appel de la nuit **\*** | 2022 | 6 |
 | Chainsaw Man | Chensō Man | L'homme tronçonneuse **\*** | 2022 | 1 |
@@ -89,6 +90,7 @@
 | Gate | Gate Jieitai Kanochi nite, Kaku Tatakaeri | Gate - Au-delà de la porte  | 2015 - 2016 | 2 |
 | Goblin Slayer | Goburin Sureiyā | Tueur de gobelins **\*** | 2018 | 3 |
 | Grimgar Ashes And Illusions  | Hai to Gensō no Gurimugaru | Grimgar, le Monde des Cendres et de Fantaisie **\*** | 2016 | 4 |
+| Hell's Paradise | Jigokuraku | Le paradis de l'enfer **\*** | 2023 | 1 |
 | Hori-san To Miyamura-kun Horimiya | Hori-san to Miyamura-kun | Horimiya | 2021 | 4 |
 | I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (Cheat Skill Level Up) | Isekai de chīto nōryoku sukiru o te ni shita ore wa, genjitsu sekai o mo musō suru 〜reberuappu wa jinsei o kaeta〜 | J'ai obtenu une compétence de triche dans un autre monde et je suis devenu imbattable dans le monde réel. **\*** | 2023 | 4 |
 | I'm Standing on a Million Lives | Hyakuman no Inochi no Ue ni Ore wa Tatte Iru | Je suis debout sur un million de vies **\*** | 2020 - 2021 | 4 |
@@ -104,6 +106,7 @@
 | Lucifer And The Biscuit Hammer | Hoshi no Samidare | Lucifer et le marteau biscuit **\*** | 2022 | 2 |
 | Mashle - Magic and muscles| Masshuru | Mashle - Magie et muscles **\*** | 2023 | 3 |
 | My Dress-Up Darling | Sono Bisuku Dōru wa Koi o Suru | Ma chérie en costume **\*** | 2022 | 2 |
+| Nier: Automata Ver1.1a | Nia Otomata Ver1.1a | Nier: Automata Ver1.1a | 2023 | 2 |
 | No Game No Life | Nōgēmu Nōraifu | Pas de Jeu, Pas de Vie **\*** | 2014 | 6 |
 | One Piece | Wan Pīsu | Une pièce **\*** | 1999 - 2023 | 5 |
 | Overlord | Ōbārōdo | Seigneur suprême **\*** | 2015 - 2022 | 1 |
@@ -139,6 +142,8 @@
 | Tomo-chan Is a Girl! | Tomo-chan wa onnanoko! | Tomo-chan Est une Fille ! | 2023 | 3 |
 | TONIKAWA - Over the Moon For You | Tonikaku Kawaii | TONIKAWA - La lune pour toi **\*** | 2020 | 2 |
 | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | Otomegē Sekai wa Mobu ni Kibishii Sekai Desu | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs **\*** | 2022 | 1 |
+| Uncle From Another World | Isekai ojisan | Coma héroïque dans un autre monde | 2022 - 2023 | 4 |
+
 
 ## Blu-Ray Cover
 **Nombre Total :** 53<br>
