@@ -14,7 +14,7 @@
 * [Liste des Blu-Ray](#blu-ray-liste)
 
 ## Bonus
-**Nombre Total :** 133<br>
+**Nombre Total :** 139<br>
 **Format :** png/ico/icns/psd<br>
 **Type :** N/A<br>
 **Dimensions :**
@@ -31,8 +31,8 @@
          24x24 (32 bits), 16x16 (png), 16x16 @x2 (png), 16x16 (32/8/4 bits)
 
 ## Dossiers Cover
-**Nombre Total :** 1440 (240 par Format/Type)<br>
-**Unique Anime :** 87<br>
+**Nombre Total :** 1500 (250 par Format/Type)<br>
+**Unique Anime :** 92<br>
 **Format :** png/ico/icns<br>
 **Type :** Normal/Gloss<br>
 **Dimensions :**
@@ -60,6 +60,8 @@
 | [C] – Control – The Money and Soul of Possibility | N/A | [C] - Contrôle - L'argent et l'âme de la possibilité | 2011 | 5 |
 | A.I.C.O. -Incarnation- | N/A | A.I.C.O. -Incarnation- | 2018 | 3 |
 | A Couple Of Cuckoos | Kakkō no Iinazuke | Un couple de coucous **\*** | 2022 | 5 |
+| Accel World | Akuseru Wārudo | Monde accélérer **\*** | 2012 | 1 |
+| Albator 78 | Uchūkaizoku Kyaputen Hārokku | Albator 78 | 1978 - 1979 | 1 |
 | Angel Beats! | Enjeru Bītsu! | Les rythmes de l'ange! **\*** | 2010 | 3 |
 | Arcane | N/A | Arcane | 2021 | 4 |
 | Attack on Titan | Shingeki no Kyojin | L'attaque des Titans | 2013 - 2022 | 3 |
@@ -70,6 +72,7 @@
 | Btooom! | Butūmu! | Btooom! | 2012 | 1 |
 | By the Grace of the Gods | Kami-tachi ni Hirowareta Otoko | Par la grâce des dieux **\*** | 2020 - 2023 | 5 |
 | Call of the Night | Yofukashi no uta | L'appel de la nuit **\*** | 2022 | 6 |
+| Capitaine Flam | Kyaputen Fyūchā | Capitaine Flam | 1978 - 1979 | 3 |
 | Chainsaw Man | Chensō Man | L'homme tronçonneuse **\*** | 2022 | 1 |
 | Chrno Crusade | Kurono kuruseido | Croisade de Chrno **\*** | 2003 - 2004 | 2 |
 | Classroom of the Elite | Yōkoso jitsuryoku shijō shugi no kyōshitsu e | La salle de classe de l'élite **\*** | 2017 - 2022 | 2 |
@@ -99,6 +102,7 @@
 | In the Land of Leadale | Riadeiru no daichi nite | Dans le pays de Leadale **\*** | 2022 | 2 |
 | I've Been Killing Slimes for 300 Years and Maxed Out My Level | Suraimu Taoshite Sanbyaku-nen, Shiranai Uchi ni Reberu Makkusu ni Nattemashita | La Sorcière invincible tueuse de Slime depuis 300 ans | 2021 | 4 |
 | KamiKatsu: Working for God in a Godless World | Kaminaki Sekai no Kamisama Katsudō | Kamisama: Opération Divine | 2023 | 2 |
+| N/A | Kirarin Reboryūshon | Kilari | 2006 - 2009 | 3 |
 | Konosuba: God's blessing on this wonderful world! | Kono subarashii sekai ni shukufuku o! | Konosuba: Sois béni monde merveilleux !| 2016 - 2017| 16 |
 | Kuromukuro | N/A | Kuromukuro | 2016| 3 |
 | Log Horizon | Rogu Horaizun | Horizon des événements **\*** | 2013 - 2021 | 1 |
@@ -142,11 +146,12 @@
 | Tomo-chan Is a Girl! | Tomo-chan wa onnanoko! | Tomo-chan Est une Fille ! | 2023 | 3 |
 | TONIKAWA - Over the Moon For You | Tonikaku Kawaii | TONIKAWA - La lune pour toi **\*** | 2020 | 2 |
 | Trapped in a Dating Sim - The World of Otome Games is Tough for Mobs | Otomegē Sekai wa Mobu ni Kibishii Sekai Desu | Piégé dans une simulation de rencontre - Le monde des jeux Otome est dur pour les Mobs **\*** | 2022 | 1 |
+| Ulysses 31 | Uchū Densetsu Yurishīzu Sātīwan | Ulysse 31 | 1981 - 1982 | 2 |
 | Uncle From Another World | Isekai ojisan | Coma héroïque dans un autre monde | 2022 - 2023 | 4 |
 
 
 ## Blu-Ray Cover
-**Nombre Total :** 53<br>
+**Nombre Total :** 55<br>
 **Format :** png<br>
 **Type :** Normal<br>
 **Dimensions :**
@@ -163,7 +168,7 @@
 | 5 centimètres par seconde | Byōsoku go senchimētoru | 5cm per second | 2007 | 1 |
 | Une voix silencieuse **\*** | Koe no katachi | A Silent Voice | 2016 | 1 |
 | Atlantide, L'empire Perdu | N/A | Atlantis: The Lost Empire | 2001 | 1 |
-| Belle: Le dragon et la princesse aux taches de rousseur | Ryū to sobakasu no hime | Belle The Dragon and the Freckled Princess | 2021 | 6 |
+| Belle: Le dragon et la princesse aux taches de rousseur | Ryū to sobakasu no hime | Belle: The Dragon and the Freckled Princess | 2021 | 6 |
 | Renard noir **\*** | Black Fox | Black Fox | 2018 | 1 |
 | Bulles | Baburu | Bubble | 2022 | 1 |
 | Final Fantasy VII: Les enfants de l'Avent **\*** | Fainaru Fantajī Sebun Adobento Chirudoren | Final Fantasy VII - Advent Children | 2005 | 1 |
@@ -175,6 +180,7 @@
 | Jun, la voix du cœur | Kokoro ga sakebitagatterunda | The Anthem Of The Heart | 2015 | 1 |
 | KonoSuba : La bénédiction de Dieu sur ce monde merveilleux ! La légende de Crimson **\*** | Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu | KonoSuba: God's Blessing on This Wonderful World! Legend of Crimson |2019 | 1 |
 | Le coquin ne rêve pas d'une fille rêveuse **\*** | Seishun Buta Yarou wa Bunny Girl-Senpai no Yume wo Minai | Rascal Does Not Dream of a Dreaming Girl | 2019 | 1 |
+| Chanter un peu d'harmonie **\*** | Ai no utagoe o kikasete | Sing a Bit of Harmony | 2021 | 2 |
 | Le Garçon et la Bête | Bakemono no ko | The Boy and the Beast | 2015 | 1 |
 | Les Chevaliers du Zodiaque : La Légende du Sanctuaire | Seinto Seiya Rejendo Obu Sankuchuari | Saint Seiya: Legend of Sanctuary | 2014 | 1 |
 | Les contes de Terremer | Gedo Senki | Tales from Earthsea | 2006 | 1 |
